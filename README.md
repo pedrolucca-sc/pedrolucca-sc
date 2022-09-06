@@ -8,7 +8,7 @@ I nice guy who likes helping people :)
 
 *   🌍  I'm based in Brazil
 *   🖥️  See my portfolio at [My Portifolio](http://pedro.beavr.page)
-*   ✉️  You can contact me at [me@petrolins.xyz](mailto:me@petrolins.xyz)
+*   ✉️  You can contact me at [lucca.pedro@icloud.com](mailto:lucca.pedro@icloud.com)
 *   🚀  I'm currently working on [Beaverpage](http://usebeaver.com)
 *   🧠  I'm learning NodeJS
 *   🤝  I'm open to collaborating on Interesting projects
