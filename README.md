@@ -7,13 +7,9 @@ Full-Stack Developer
 I nice guy who likes helping people :)
 
 *   🌍  I'm based in Brazil
-*   🖥️  See my portfolio at [My Portifolio](http://pedro.beavr.page)
+*   🖥️  See my portfolio at [My Portifolio](http://beaver.page/@pedro)
 *   ✉️  You can contact me at [lucca.pedro@icloud.com](mailto:lucca.pedro@icloud.com)
-*   🚀  I'm currently working on [Beaverpage](http://usebeaver.com)
-*   🧠  I'm learning NodeJS
-*   🤝  I'm open to collaborating on Interesting projects
-*   ⚡  I'm secretly Iron Man... but don't tell anyone!
-*   
+*   🚀  I'm currently working on [Beaver Page 🦫](http://beaver.page) and [Chimp Blog 🐵](https://chimp.blog)
  
  ### Socials  <p align="left"> <a href="https://www.github.com/impedrolucca" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/impedrolucca" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/impedrolucca" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
