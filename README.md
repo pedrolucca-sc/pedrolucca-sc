@@ -7,9 +7,9 @@ Full-Stack Developer
 I nice guy who likes helping people :)
 
 *   🌍  I'm based in Brazil
-*   🖥️  See my portfolio at [My Portifolio](http://beaver.page/@pedro)
+*   🖥️  See my portfolio at [My Portifolio](http://lnkhub.co/@pedro)
 *   ✉️  You can contact me at [lucca.pedro@icloud.com](mailto:lucca.pedro@icloud.com)
-*   🚀  I'm currently working on [Beaver Page 🦫](http://beaver.page) and [Chimp Blog 🐵](https://chimp.blog)
+*   🚀  I'm currently working on [Lnkhub](http://lnkhub.co) and [Blogwell](https://blogwell.co)
  
  ### Socials  <p align="left"><a href="https://www.twitter.com/pedrolucca_sc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
